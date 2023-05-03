@@ -66,7 +66,7 @@ let linksData = [
   {
     icon: Book,
     name: "网址集",
-    link: "https://web.imsyy.top/",
+    link: "https://web.akk47.top/",
   },
   {
     icon: Fire,
